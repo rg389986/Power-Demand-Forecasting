@@ -26,13 +26,12 @@
 ### Step 1: Clone from Git
 ```powershell
 # Navigate to your workspace directory
-cd C:\Users\[YourUsername]\OneDrive\Documents
+cd C:\Users\...\Documents
 
 # Clone the repository
-git clone https://github.com/your-repo/power_demand_forecasting.git
+git clone https://github.com/rg389986/Power-Demand-Forecasting.git
 cd power_demand_forecasting
 
-# OR manually download and extract the folder
 ```
 
 ### Step 2: Set Up Environment
@@ -62,7 +61,6 @@ start results/model_results/evaluation_metrics_testing.xlsx
 power_dem_for_model/
 │
 ├── 📚 DOCUMENTATION (Start here!)
-│   ├── README.md                      ← You are here
 │   ├── QUICK_REFERENCE.md             ← Quick-start guide
 │   ├── CODE_DOCUMENTATION.md          ← Implementation details
 │
@@ -171,7 +169,7 @@ deactivate
 cd C:\Users\[YourUsername]\OneDrive\Documents
 
 # Step 2: Clone repository
-git clone https://github.com/your-org/power-demand-forecasting.git
+git clone https://github.com/rg389986/Power-Demand-Forecasting.git
 
 # Step 3: Navigate into project
 cd power-demand-forecasting
@@ -383,3 +381,4 @@ Happy forecasting! 📊
 **Last Updated:** January 18, 2026  
 **Version:** 1.0  
 **Status:** ✅ Production Ready
+
